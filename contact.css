@@ -1,0 +1,38 @@
+.img-thumbnail{
+    width: 150px;
+}
+.nav-link{
+   margin: auto 5px;
+   font-size: 20px;
+}
+.nav-link:hover{
+    background-color: rgb(40, 133, 253);
+}
+.col-md-6 .mobile-margin{
+    margin-left: 10px;
+    margin-right: 1px;
+}
+.page-footer{
+    background-color: rgb(53, 73, 248);
+}
+.foot-a{
+    color: white;
+
+
+}
+.foot-a:hover{
+    color: white;
+}
+.foot-b{
+    color: white;
+    font-size: 20px;
+    padding-right: 0px;
+   
+
+}
+.foot-b:hover{
+    color: white;
+}
+.h1-responsive{
+    font-family:' Source Serif Pros', sans-serif;
+}
